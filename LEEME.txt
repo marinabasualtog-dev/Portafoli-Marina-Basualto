@@ -1,0 +1,6 @@
+PORTAFOLIO DE MARINA BASUALTO
+
+Archivos principales: index.html y style.css.
+Los enlaces de los cuatro ejercicios p5.js que compartiste ya están incorporados.
+Las imágenes y textos de los proyectos quedan como espacios provisionales para completar solo con material de esta asignatura.
+Para publicar: sube el contenido de esta carpeta a un repositorio de GitHub y activa GitHub Pages.
